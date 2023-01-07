@@ -1,4 +1,4 @@
-# landing-page
+# todo-app
 
 ## Project setup
 ```
